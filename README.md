@@ -2,6 +2,7 @@
 
 ## Overview
 <image src="readme_resources/Overview.png" width =600px />
+
 ## Demo
 <image src="readme_resources/Search_Demo.gif" width =300px />
 
