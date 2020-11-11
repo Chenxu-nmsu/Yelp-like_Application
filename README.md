@@ -1,4 +1,4 @@
-# A Yelp-like Application with searching, sorting, recommended systems using Elasticsearch + Spark MLlib + Spring Boot + SQL
+# A Yelp-like Application with searching, sorting, recommendation systems using Elasticsearch + Spark MLlib + Spring Boot + SQL
 
 ## Overview
 <image src="readme_resources/Overview.png" width =600px />
